@@ -1,11 +1,21 @@
 # Olá, eu sou o Gabriel Delmondes 👋
 
+---
 🎓 Estudante de Ciência da Computação no **UniCEUB** — Taguatinga, DF  
 💻 Apaixonado por tecnologia, hardware e programação, estou disposto a aprender cada vez mais, e obter novas experiêcias dentro da área da TI.
 🌱 Atualmente aprendendo **Python**, **C++** e **Git**
 🔧 Desenvolvendo projetos com Arduino e eletrônica  
+---
 
 ---
+## 🚀 Meus Projetos
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [🎮 Simulador HID](https://github.com/biel14xp/Simulador-HID-Arduino) | Button Box para simuladores | C++, Arduino |
+| [🗂️ Portifolio Hub](https://github.com/biel14xp/Portifolio-Hub) | Portfólio acadêmico e pessoal | HTML, CSS, Git |
+---
+
 
 ## 🛠️ Tecnologias
 
@@ -16,13 +26,6 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
-## 🚀 Meus Projetos
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [🎮 Simulador HID](https://github.com/biel14xp/Simulador-HID-Arduino) | Button Box para simuladores | C++, Arduino |
-| [🗂️ Portifolio Hub](https://github.com/biel14xp/Portifolio-Hub) | Portfólio acadêmico e pessoal | HTML, CSS, Git |
 
 ---
 
