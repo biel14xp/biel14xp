@@ -1,8 +1,8 @@
 # Olá, eu sou o Gabriel Delmondes 👋
 
 🎓 Estudante de Ciência da Computação no **UniCEUB** — Taguatinga, DF  
-💻 Apaixonado por tecnologia, hardware e programação  
-🌱 Atualmente aprendendo **Python** e **C++**  
+💻 Apaixonado por tecnologia, hardware e programação, estou disposto a aprender cada vez mais, e obter novas experiêcias dentro da área da TI.
+🌱 Atualmente aprendendo **Python**, **C++** e **Git**
 🔧 Desenvolvendo projetos com Arduino e eletrônica  
 
 ---
@@ -24,28 +24,6 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=biel14xp&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biel14xp&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 Troféus
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=biel14xp&theme=tokyonight&no-frame=true&row=1)
-
-</div>
 
 ---
 
