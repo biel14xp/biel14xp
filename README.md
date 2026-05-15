@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou o Gabriel Delmondes 👋
 
-<!--
-**biel14xp/biel14xp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação no **UniCEUB** — Taguatinga, DF  
+💻 Apaixonado por tecnologia, hardware e programação  
+🌱 Atualmente aprendendo **Python** e **C++**  
+🔧 Desenvolvendo projetos com Arduino e eletrônica  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Meus Projetos
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [🎮 Simulador HID](https://github.com/biel14xp/Simulador-HID-Arduino) | Button Box para simuladores | C++, Arduino |
+| [🗂️ Portifolio Hub](https://github.com/biel14xp/Portifolio-Hub) | Portfólio acadêmico e pessoal | HTML, CSS, Git |
+
+---
+
+## 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-delmondes-828454319)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/biel14xp)
