@@ -16,6 +16,16 @@
 
 ---
 
+## 🐍 Minhas Contribuições
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/biel14xp/biel14xp/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 ## 🛠️ Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
