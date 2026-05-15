@@ -1,7 +1,7 @@
 # Olá, eu sou o Gabriel Delmondes 👋
 
 🎓 Estudante de Ciência da Computação no **UniCEUB** — Taguatinga, DF  
-💻 Apaixonado por tecnologia, hardware e programação  
+💻 Apaixonado por tecnologia, hardware e programação, estou disposto a aprender cada vez mais, e obter novas experiêcias dentro da área da TI.
 🌱 Atualmente aprendendo **Python**, **C++** e **Git**
 🔧 Desenvolvendo projetos com Arduino e eletrônica  
 
