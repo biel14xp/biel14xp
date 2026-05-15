@@ -2,7 +2,7 @@
 
 🎓 Estudante de Ciência da Computação no **UniCEUB** — Taguatinga, DF  
 💻 Apaixonado por tecnologia, hardware e programação  
-🌱 Atualmente aprendendo **Python** e **C++**  
+🌱 Atualmente aprendendo **Python**, **C++** e **Git**
 🔧 Desenvolvendo projetos com Arduino e eletrônica  
 
 ---
