@@ -15,6 +15,9 @@
   <a href="https://github.com/biel14xp/Portifolio-Hub">
     <img height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=biel14xp&repo=Portifolio-Hub&theme=tokyonight" />
   </a>
+  <a href="https://github.com/biel14xp/Automated-Ticket-System">
+    <img height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=biel14xp&repo=Automated-Ticket-System&theme=tokyonight">
+  </a>
 </p>
 
 ---
