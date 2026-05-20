@@ -6,13 +6,16 @@
 🔧 Desenvolvendo projetos com Arduino e eletrônica  
 ---
 
----
 ## 🚀 Meus Projetos
 
-| Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- |
-| 🎮 [Simulador HID](https://github.com/biel14xp/Simulador-HID-Arduino) | Button Box para simuladores | C++, Arduino |
-| 📁 [Portifolio Hub](https://github.com/biel14xp/Portifolio-Hub) | Portfólio acadêmico e pessoal | HTML, CSS, Git |
+<p align="left">
+  <a href="https://github.com/biel14xp/Simulador-HID-Arduino">
+    <img height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=biel14xp&repo=Simulador-HID-Arduino&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/biel14xp/Portifolio-Hub">
+    <img height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=biel14xp&repo=Portifolio-Hub&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
