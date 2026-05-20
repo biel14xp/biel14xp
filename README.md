@@ -9,27 +9,17 @@
 
 ## 🚀 Meus Projetos
 
-<table border="0">
-  <tr>
-    <td>
-      <a href="https://github.com/biel14xp/Simulador-HID-Arduino">
-        <img height="115" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=biel14xp&repo=Simulador-HID-Arduino&theme=tokyonight" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/biel14xp/Portifolio-Hub">
-        <img height="115" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=biel14xp&repo=Portifolio-Hub&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/biel14xp/Automated-Ticket-System">
-        <img height="115" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=biel14xp&repo=Automated-Ticket-System&theme=tokyonight" />
-      </a>
-    </td>
-    <td></td> </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
+  <a href="https://github.com/biel14xp/Simulador-HID-Arduino">
+    <img height="115" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=biel14xp&repo=Simulador-HID-Arduino&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/biel14xp/Portifolio-Hub">
+    <img height="115" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=biel14xp&repo=Portifolio-Hub&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/biel14xp/Automated-Ticket-System">
+    <img height="115" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=biel14xp&repo=Automated-Ticket-System&theme=tokyonight" />
+  </a>
+</div>
 
 ---
 
