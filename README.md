@@ -1,32 +1,42 @@
 # Olá, eu sou o Gabriel Delmondes 👋
 
 🎓 Estudante de Ciência da Computação no **UniCEUB** — Taguatinga, DF  
-💻 Apaixonado por tecnologia, hardware e programação, estou disposto a aprender cada vez mais, e obter novas experiências dentro da área da TI.
+💻 Apaixonado por tecnologia, hardware e programação, estou disposto a aprender cada vez mais, e obter novas experiências dentro da área da TI.  
 🌱 Atualmente aprendendo **Python**, **C++** e **Git**
 🔧 Desenvolvendo projetos com Arduino e eletrônica  
+
 ---
 
 ## 🚀 Meus Projetos
 
-<p align="left">
-  <a href="https://github.com/biel14xp/Simulador-HID-Arduino">
-    <img height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=biel14xp&repo=Simulador-HID-Arduino&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/biel14xp/Portifolio-Hub">
-    <img height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=biel14xp&repo=Portifolio-Hub&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/biel14xp/Automated-Ticket-System">
-    <img height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=biel14xp&repo=Automated-Ticket-System&theme=tokyonight">
-  </a>
-</p>
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://github.com/biel14xp/Simulador-HID-Arduino">
+        <img height="115" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=biel14xp&repo=Simulador-HID-Arduino&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/biel14xp/Portifolio-Hub">
+        <img height="115" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=biel14xp&repo=Portifolio-Hub&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/biel14xp/Automated-Ticket-System">
+        <img height="115" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=biel14xp&repo=Automated-Ticket-System&theme=tokyonight" />
+      </a>
+    </td>
+    <td></td> </tr>
+</table>
 
 ---
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=biel14xp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=biel14xp&layout=compact&theme=tokyonight" />
+<p align="left">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=biel14xp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /><img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=biel14xp&layout=compact&theme=tokyonight" />
 </p>
 
 ---
