@@ -35,7 +35,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/biel14xp/biel14xp/output/github-contribution-grid-snake-dark.svg)
+[![Snake animation](https://raw.githubusercontent.com/biel14xp/biel14xp/output/github-contribution-grid-snake-dark.svg)](https://github.com/biel14xp?tab=overview&from=2026-12-01)
 
 </div>
 
