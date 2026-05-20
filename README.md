@@ -1,8 +1,7 @@
 # Olá, eu sou o Gabriel Delmondes 👋
 
-
 🎓 Estudante de Ciência da Computação no **UniCEUB** — Taguatinga, DF  
-💻 Apaixonado por tecnologia, hardware e programação, estou disposto a aprender cada vez mais, e obter novas experiêcias dentro da área da TI.
+💻 Apaixonado por tecnologia, hardware e programação, estou disposto a aprender cada vez mais, e obter novas experiências dentro da área da TI.
 🌱 Atualmente aprendendo **Python**, **C++** e **Git**
 🔧 Desenvolvendo projetos com Arduino e eletrônica  
 ---
@@ -30,6 +29,14 @@
 
 </div>
 
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=biel14xp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biel14xp&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
