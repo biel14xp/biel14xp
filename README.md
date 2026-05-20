@@ -16,6 +16,15 @@
 
 ---
 
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=biel14xp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=biel14xp&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ## 🛠️ Tecnologias
 
 <div align="center">
@@ -28,15 +37,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 </div>
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=biel14xp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=biel14xp&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
