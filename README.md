@@ -10,7 +10,7 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=biel14xp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /><img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=biel14xp&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=biel14xp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /><img height="600" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=biel14xp&layout=compact&theme=tokyonight" />
 </p>
 
 ---
