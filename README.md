@@ -19,6 +19,9 @@
   <a href="https://github.com/biel14xp/Automated-Ticket-System">
     <img height="115" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=biel14xp&repo=Automated-Ticket-System&theme=tokyonight" />
   </a>
+  <a href="https://github.com/biel14xp/Calculator">
+    <img height="115" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=biel14xp&repo=Calculator&theme=tokyonight">
+  </a>
 </div>
 
 ---
