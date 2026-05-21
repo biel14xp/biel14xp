@@ -16,10 +16,10 @@
   </samp>
 </div>
 
-<div align="center" width="100%">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=808080&width=900&size=22&center=true&lines=I+am+from+Brazil;IT+%26+Computer+Science+Student;Game+Dev+%26+Hardware+Enthusiast;Welcome+to+my+profile!" alt="Typing SVG"/>
-</div>
+<p align="left">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=biel14xp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /><img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=biel14xp&layout=compact&theme=tokyonight" />
+</p>
+
 
 <br>
 
