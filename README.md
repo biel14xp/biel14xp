@@ -8,7 +8,6 @@
 </div>
 
 <div align="center">
-  
   <b>`プ ロ グ ラ マ`</b>
   <samp>
       <br>
@@ -17,7 +16,6 @@
 </div>
 
 <div align="center" width="100%">
-  
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=808080&width=900&size=22&center=true&lines=I+am+from+Brazil;IT+%26+Computer+Science+Student;Game+Dev+%26+Hardware+Enthusiast;Welcome+to+my+profile!" alt="Typing SVG"/>
 </div>
 
@@ -31,8 +29,9 @@
 <br>
       
 <div align="center">
-  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=kamillyvm&rank_icon=github&show_icons=true&theme=dark&count_private=true&icon_color=808080&text_color=ffffff&bg_color=1c1c1c">
-  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&theme=dark&count_private=true&icon_color=808080&text_color=ffffff&bg_color=1c1c1c">
+  <!-- Estatísticas do GitHub (Servidor Oficial e Estável) -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kamillyvm&show_icons=true&theme=dark&count_private=true&icon_color=808080&text_color=ffffff&bg_color=1c1c1c" alt="GitHub Stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&theme=dark&count_private=true&icon_color=808080&text_color=ffffff&bg_color=1c1c1c" alt="Top Languages">
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -84,7 +83,8 @@
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=404040" /></p> 
+  <!-- Contador de Visitas Realtime (Atualiza a cada view) -->
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=404040" alt="Views Counter" /></p> 
 </div>
 
 <br>
