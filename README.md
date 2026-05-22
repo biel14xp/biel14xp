@@ -43,6 +43,10 @@
 
 </div>
 
+<div align="right">
+  <img align="right" height="150" src="https://imgur.com/5LABOxJ.png" />
+</div>
+
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
