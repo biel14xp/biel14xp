@@ -44,7 +44,7 @@
 </div>
 
 <div align="right">
-  <img align="right" height="150" src="https://imgur.com/5LABOxJ.png" />
+  <img align="right" height="150" src="https://imgur.com/XRSxRg5.png" />
 </div>
 
 <div align="center" style="display: inline_block"><br>
