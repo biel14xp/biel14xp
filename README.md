@@ -77,9 +77,9 @@
 <div align="center">
   <p align="center">
       <samp>
-        <a href="https://linktr.ee/biel_14xp">linktr.ee</a> ⊹
-        <a href="https://biel14xp.carrd.co/">carrd.co</a> ⊹
-        <a href="https://www.notion.so/36289cb78705805fa3e5f4b66b861b85?v=36289cb78705800188d8000cf97406e3&source=copy_link">notion</a>
+        ✘ <a href="https://linktr.ee/biel_14xp">linktr.ee</a> ✘
+        <a href="https://biel14xp.carrd.co/">carrd.co</a> ✘
+        <a href="https://www.notion.so/36289cb78705805fa3e5f4b66b861b85?v=36289cb78705800188d8000cf97406e3&source=copy_link">notion</a>✘
       </samp>
   </p>
 </div>
