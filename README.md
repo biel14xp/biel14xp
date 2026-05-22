@@ -78,7 +78,7 @@
   <br>
   <br>
 
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/gabriel-delmondes-828454319/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-00008B?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/gabriel-delmondes-828454319/)
   
 </div>
 
