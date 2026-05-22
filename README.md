@@ -35,6 +35,12 @@
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biel14xp&theme=dark"/>
 </div>
 
+<div align="center">
+
+[![Snake animation](https://raw.githubusercontent.com/biel14xp/biel14xp/output/github-contribution-grid-snake-dark.svg)](https://github.com/biel14xp?tab=overview&from=2026-12-01)
+
+</div>
+
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
