@@ -29,8 +29,7 @@
 <br>
 <br>
       
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biel14px&layout=compact&theme=dracula)   
-
+![Github Used Languages](https://github-used-languages.vercel.app/biel14xp)   
 ---
 
 <div align="center">
