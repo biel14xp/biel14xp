@@ -29,11 +29,7 @@
 <br>
 <br>
       
-<div align="center">
-  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=biel14xp&rank_icon=github&show_icons=true&theme=dark&count_private=true">
-  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=biel14xp&layout=compact&theme=dark&count_private=true">
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biel14xp&theme=dark"/>
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula)   
 
 ---
 
